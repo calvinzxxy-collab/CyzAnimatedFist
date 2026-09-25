@@ -31,7 +31,7 @@ Example:
 
 ```text
 GTA San Andreas/
-├─ CyzAnimatedFist-SAFE.asi
+├─ CyzAnimatedFist.asi
 └─ modloader/
    └─ My Animated Fist/
       └─ fist.gif
